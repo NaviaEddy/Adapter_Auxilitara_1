@@ -1,6 +1,7 @@
 # Unreal Engine
 DerivedDataCache/
 Intermediate/
+save/
 
 # Compiled binary
 *.dll
